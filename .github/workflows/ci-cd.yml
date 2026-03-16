@@ -39,4 +39,4 @@ jobs:
 
       - name: Déploiement avec Docker Compose
         run: |
-          docker-compose up -d
+          docker compose up -d
